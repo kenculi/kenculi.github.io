@@ -2,12 +2,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Vuongdao&#39;s home</title>
-    <link>https://vuongdao.github.io/tags/</link>
+    <link>https://kenculi.github.io/tags/</link>
     <description>Recent content in Tags on Vuongdao&#39;s home</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
-	<atom:link href="https://vuongdao.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://kenculi.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>
