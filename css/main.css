@@ -319,7 +319,7 @@
 /** Tabs sections **/
 
 .content{
-	padding:100px;
+	padding:50px;
 	position:relative;
 }
 
@@ -779,9 +779,9 @@ ul.hb-list li h6 {
 
 .listing-large .listing-event .data.left h5 {
     display: block;
-    float: right;
+    /*float: right;*/
     margin-left:15px;
-	font-size: 15px;
+	 font-size: 15px;
     font-weight: 400;
 }
 
@@ -1517,12 +1517,14 @@ ul.hb-list li h6 {
 
 
 .social li i {
-    line-height: 40px;
+  line-height: 40px;
 	font-size:13px;
 	display:block;
 }
 
-
+.block-single ul.url_list a {
+  color: #F57B20;
+}
 
 .footer .copyright{
  	background: #2a2a2a;
